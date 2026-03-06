@@ -141,3 +141,4 @@ source venv/bin/activate
 2. **Upload a document** or **paste text** to summarize
 3. **Download** or **copy** or **listen** the summary text
 4. **Ask legal questions** in the floating Q&A chat
+Project maintained by Samrithi
